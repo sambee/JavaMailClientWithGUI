@@ -1,4 +1,4 @@
 JavaMailClientWithGUI
 =====================
 
-java e-mail client wiht GUI
+java e-mail client with GUI
